@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **mutisyamoses722@gmail.com**
 
-- 📄 Know about my experiences file:///C:/Users/LENOVO/Downloads/Moses%20Mutisya%20resume%20-%20Moses%20Mutisya%20(1).pdf
-
 - ⚡ Fun fact **JavaScript was created in just 10 days**
 
 <h3 align="left">Connect with me:</h3>
