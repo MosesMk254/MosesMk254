@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mutisyamoses722@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dVo6wi9QF1IpnpC5_dKWi_u5gOKkPEJ26enKCeOdF84/edit?tab=t.0](https://docs.google.com/document/d/1dVo6wi9QF1IpnpC5_dKWi_u5gOKkPEJ26enKCeOdF84/edit?tab=t.0)
+- 📄 Know about my experiences file:///C:/Users/LENOVO/Downloads/Moses%20Mutisya%20resume%20-%20Moses%20Mutisya%20(1).pdf
 
 - ⚡ Fun fact **JavaScript was created in just 10 days**
 
