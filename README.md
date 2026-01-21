@@ -5,11 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesmk254&label=Profile%20views&color=0e75b6&style=flat" alt="mosesmk254" /> </p>
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 **React / Flask developer**
 
-- 💬 Ask me about **Javascript, react, python**
+- 💬 Ask me about **Rutere Realty (PropTech) (https://rutererealty.com/) & MedCore (Hospital Management Systems)**
 
 - 📫 How to reach me **mutisyamoses722@gmail.com**
+
+- 📃 View my **[Resume / CV](file:///C:/Users/LENOVO/Downloads/Updated%20Cv.pdf)**
 
 - ⚡ Fun fact **JavaScript was created in just 10 days**
 
