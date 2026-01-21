@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mutisyamoses722@gmail.com**
 
-- 📃 View my **(file:///C:/Users/LENOVO/Downloads/Updated%20Cv.pdf)**
+- 📃 View my **[Resume / CV](./Moses_CV.pdf)**
 
 - ⚡ Fun fact **JavaScript was created in just 10 days**
 
